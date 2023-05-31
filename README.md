@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I am developer with an unhealthy will to master every major<br>branch of software engineering. I also happed to be very much<br>into 3D modelling and graphic design.<br>
+I am developer with an unhealthy will to master every major branch of software engineering.
+I also happened to be very much into 3D modelling and graphic design.<br>
 
 
 ## 🌐 Socials:
